@@ -22,7 +22,6 @@
   box-shadow: 5px 4px 11px -3px rgb(15 31 3 / 56%);
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  content: 'NO!';
 }
 .btn.good {
   background-color: rgb(64, 226, 58);

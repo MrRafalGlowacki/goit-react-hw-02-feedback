@@ -3,9 +3,6 @@ import PropTypes from 'prop-types';
 import css from './Statistics.module.css';
 
 export class Statistics extends Component {
-  static defaultProps = {
-    percentage: 1,
-  };
   render() {
     const { good, neutral, bad, total, percentage } = this.props;
     return (
