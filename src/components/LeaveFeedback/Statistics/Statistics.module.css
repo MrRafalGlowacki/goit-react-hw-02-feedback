@@ -1,0 +1,10 @@
+.title {
+  margin-bottom: 11px;
+}
+.stat {
+  list-style: none;
+  font-weight: 700;
+}
+.stat li {
+  margin-top: 7px;
+}
